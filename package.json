@@ -11,6 +11,7 @@
         "classnames": "^2.5.1",
         "dayjs": "^1.11.11",
         "front-matter": "^4.0.2",
+        "lucide-react": "^0.539.0",
         "markdown-to-jsx": "^7.7.1",
         "next": "^15.2.1",
         "react": "^19.0.0",

@@ -4,6 +4,7 @@ import { Annotated } from '@/components/Annotated';
 import Link from '@/components/atoms/Link';
 import { iconMap } from '@/components/svgs';
 
+
 export default function HeaderLink(props) {
     const { elementId, className, label, altText, url, showIcon, icon, iconPosition = 'right' } = props;
     const IconComponent = icon ? iconMap[icon] : null;

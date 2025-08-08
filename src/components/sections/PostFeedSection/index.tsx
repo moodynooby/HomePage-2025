@@ -1,9 +1,9 @@
 import classNames from 'classnames';
 import dayjs from 'dayjs';
+import { ArrowUp } from 'lucide-react';
 
 import { Action, Link } from '@/components/atoms';
 import ImageBlock from '@/components/molecules/ImageBlock';
-import ArrowUpRightIcon from '@/components/svgs/arrow-up-right';
 import { mapStylesToClassNames as mapStyles } from '@/utils/map-styles-to-class-names';
 import Section from '../Section';
 
@@ -98,7 +98,7 @@ function PostGrid(props) {
                     {showReadMoreLink && (
                         <div className="mt-8">
                             <span className="inline-flex text-xl transition rounded-full p-4 border-2 border-current group-hover:bottom-shadow-6 group-hover:-translate-y-1.5">
-                                <ArrowUpRightIcon className="fill-current w-icon h-icon" />
+                                <ArrowUp className="fill-current w-icon h-icon" />
                             </span>
                         </div>
                     )}
@@ -156,7 +156,7 @@ function PostList(props) {
                         {showReadMoreLink && (
                             <div className="md:mx-4">
                                 <span className="inline-flex text-xl transition rounded-full p-4 border-2 border-current md:text-3xl group-hover:bottom-shadow-6 group-hover:-translate-y-1.5">
-                                    <ArrowUpRightIcon className="fill-current w-icon h-icon" />
+                                    <ArrowUp className="fill-current w-icon h-icon" />
                                 </span>
                             </div>
                         )}

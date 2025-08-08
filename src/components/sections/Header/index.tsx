@@ -1,11 +1,9 @@
-import classNames from 'classnames';
-import { useRouter } from 'next/router';
-import { useEffect, useState } from 'react';
-
 import { Link, Social } from '@/components/atoms';
 import ImageBlock from '@/components/molecules/ImageBlock';
-import CloseIcon from '@/components/svgs/close';
-import MenuIcon from '@/components/svgs/menu';
+import classNames from 'classnames';
+import { Menu, X } from 'lucide-react';
+import { useRouter } from 'next/router';
+import { useEffect, useState } from 'react';
 import HeaderLink from './HeaderLink';
 
 export default function Header(props) {
@@ -132,7 +130,7 @@ function MobileMenu(props) {
                 className="h-10 min-h-full p-4 text-lg border-l border-current focus:outline-hidden"
                 onClick={() => setIsMenuOpen(true)}
             >
-                <MenuIcon className="fill-current w-icon h-icon" />
+                <Menu className="fill-current w-icon h-icon" />
             </button>
             <div className={classNames('fixed inset-0 z-20 overflow-y-auto bg-main', isMenuOpen ? 'block' : 'hidden')}>
                 <div className="flex flex-col min-h-full">
@@ -144,7 +142,7 @@ function MobileMenu(props) {
                                 className="h-10 min-h-full p-4 text-lg focus:outline-hidden"
                                 onClick={() => setIsMenuOpen(false)}
                             >
-                                <CloseIcon className="fill-current w-icon h-icon" />
+                                <X className="fill-current w-icon h-icon" />
                             </button>
                         </div>
                     </div>
