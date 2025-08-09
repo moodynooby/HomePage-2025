@@ -1,16 +1,16 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/depth-perception.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-a",
         "isSticky": true,
         "title": "Manas Doshi",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Manas Doshi",
+                "label": "About Me",
                 "url": "/info"
             },
             {
@@ -33,6 +33,13 @@
                 "label": "GitHub",
                 "url": "https://github.com/moodynooby",
                 "icon": "Github"
+            },
+            {
+                "type": "Social",
+                "altText": "E-Mail",
+                "label": "E-Mail",
+                "url": "mailto:moodynooby@proton.me",
+                "icon": "Mail"
             }
         ],
         "styles": {
