@@ -51,7 +51,7 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-one.md
+      - content/pages/projects/exts.md
     styles:
       self:
         height: auto
