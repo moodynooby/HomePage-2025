@@ -1,21 +1,21 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-d
+colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/frank-zhang-HHNPLFG5t0c-unsplash.jpg
+  url: /images/nathan-dumlao-ciO5L8pin8A-unsplash.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-e
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a developer, digital artist and most importantly a creator of cool stuff 
+      whatever the medium be
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
@@ -37,7 +37,7 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions: [ ]
+    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''

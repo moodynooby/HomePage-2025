@@ -11,13 +11,11 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     text: >+
       # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. ).
+      also where I’m based. I’m currently a student, When I’m not coding, writing or creating, I am probably learning. ).
 
     media:
       type: ImageBlock
@@ -62,7 +60,7 @@ sections:
     columns: 5
     aspectRatio: auto
     showCaption: false
-    enableHover: false
+    enableHover: true
     styles:
       self:
         width: wide
@@ -130,7 +128,7 @@ sections:
         text: |-
           **2025-2028**
 
-          * BTECH at AU(Ahmedabad University)
+          *CSE BTECH at AU(Ahmedabad University)
         styles:
           self:
             textAlign: left

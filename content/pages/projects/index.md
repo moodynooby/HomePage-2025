@@ -1,7 +1,7 @@
 ---
 type: ProjectFeedLayout
 title: Projects
-colors: colors-d
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/joe-woods-4Zaq5xY5M_c-unsplash.jpg
