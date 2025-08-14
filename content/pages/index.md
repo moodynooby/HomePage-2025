@@ -52,6 +52,8 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/exts.md
+      - content/pages/projects/firemin.md
+
     styles:
       self:
         height: auto
