@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-e
+    colors: colors-f
     backgroundSize: full
     title: >-
       I’m a developer, digital artist and most importantly a creator of cool stuff 
