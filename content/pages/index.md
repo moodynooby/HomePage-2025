@@ -37,7 +37,7 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions: []
+    actions: [ ]
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -53,6 +53,7 @@ sections:
     projects:
       - content/pages/projects/exts.md
       - content/pages/projects/firemin.md
+      - content/pages/projects/tasks.md
 
     styles:
       self:
