@@ -15,13 +15,14 @@ media:
   url: /images/Brave-Blog-14.svg
   altText: Project image
 ---
+
 Modern Web browsers make it easy to access websites, search the Web, and do just about everything online. But by
 default, browsers might not have all the functionality you want. In these cases, many people will customize by
 installing a browser extension.
 
 An extension is basically a piece of software that adds some custom function to your core browser. They can help you
 take notes, manage passwords, block ads, and more. But extensions can also be slow, data-harvesting and most important
-of all have a ***bad UI*** **gasp**.
+of all have a **_bad UI_** **gasp**.
 
 While above statement maybe hyperbole but my extensions are as follows
 
@@ -48,28 +49,9 @@ A way to translate web pages or pdf with a simple and modern translate extension
 <hr/>
 
  <div style="display: flex; gap: 20px; align-items: baseline;">
-<img src="https://github.com/moodynooby/modern-darkreader/blob/master/src/icons/dr_128.png?raw=true"    width="70px" height="70px"  /><h2>Midnight Surf</h2></div>
-
-A simple way to make pages beautiful via dark mode.
-
-<div style="display: flex; gap: 20px; align-items: center;">
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/mid-surf/">
-    <img src="/images/get-the-addon-fx-apr-2020.svg" alt="Firefox" width="100px" height="100px" />
-  </a>
-  <a href="https://github.com/moodynooby/modern-darkreader/releases/download/Publish/MidnightSurf-chrome-mv3.zip">
-    <img src="/images/get-the-addon-cr.png" alt="Chrome" width="100px" height="100px" />
-  </a>
-  <a href="https://github.com/moodynooby/modern-darkreader">
-    <img src="/images/get-the-addon-gt.png" alt="Github" width="150px" height="150px" />
-  </a>
-</div>
-
-<hr/>
-
- <div style="display: flex; gap: 20px; align-items: baseline;">
 <img src="https://github.com/moodynooby/Modern-downTheMall-GimmeThat/blob/master/style/icon128.png?raw=true"   width="70px" height="70px"  /><h2>Gimme That!</h2></div>
 
-A fun link and media grabber
+A USER-FOCUSED and intuitive link and media grabber
 
 <div style="display: flex; gap: 20px; align-items: center;">
   <a href="https://addons.mozilla.org/en-US/firefox/addon/gimmethat-modern-downthemall/">
@@ -89,13 +71,30 @@ A fun link and media grabber
  <div style="display: flex; gap: 20px; align-items: baseline;">
 <img src="https://raw.githubusercontent.com/moodynooby/paceplay-modern-speed-controller/767d00d30433c6ef15eb9a89cdcd81632aa98251/icons/icon.svg"  width="70px" height="70px" /><h2>Pace Play</h2></div>
 
-A beautiful and gracefull speed controller
+A beautiful and graceful speed controller
+
+<div style="display: flex; gap: 20px; align-items: center;">
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/paceplay-modern-controller//">
+    <img src="/images/get-the-addon-fx-apr-2020.svg" alt="Firefox" width="100px" height="100px" />
+  </a>
+  <a href="https://github.com/moodynooby/paceplay-modern-speed-controller
+  ">
+    <img src="/images/get-the-addon-gt.png" alt="Github" width="150px" height="150px" />
+  </a>
+</div>
+
+<hr/>
+
+ <div style="display: flex; gap: 20px; align-items: baseline;">
+<img src="https://raw.githubusercontent.com/moodynooby/modern-vol-booster/d51f7c02040e2dab79ab9f11dba255310a5183fd/icon.svg"  width="70px" height="70px" /><h2>Boom Slider!</h2></div>
+
+Modern Volume Control Booster or Reduce Volume MORE then the limit. upto 600%!
 
 <div style="display: flex; gap: 20px; align-items: center;">
   <a href="https://addons.mozilla.org/en-US/firefox/addon/modern-boomslider/">
     <img src="/images/get-the-addon-fx-apr-2020.svg" alt="Firefox" width="100px" height="100px" />
   </a>
-  <a href="https://github.com/moodynooby/paceplay-modern-speed-controller
+  <a href="https://github.com/moodynooby/modern-vol-booster
   ">
     <img src="/images/get-the-addon-gt.png" alt="Github" width="150px" height="150px" />
   </a>
