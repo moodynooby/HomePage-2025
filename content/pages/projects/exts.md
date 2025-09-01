@@ -65,7 +65,8 @@ A USER-FOCUSED and intuitive link and media grabber
     <img src="/images/get-the-addon-gt.png" alt="Github" width="150px" height="150px" />
   </a>
 </div>
-
+<img src="https://addons.mozilla.org/user-media/previews/thumbs/333/333704.jpg?modified=1756715151"/>
+<img src="https://addons.mozilla.org/user-media/previews/thumbs/333/333705.jpg?modified=1756715151"/>
 <hr/>
 
  <div style="display: flex; gap: 20px; align-items: baseline;">
@@ -99,3 +100,5 @@ Modern Volume Control Booster or Reduce Volume MORE then the limit. upto 600%!
     <img src="/images/get-the-addon-gt.png" alt="Github" width="150px" height="150px" />
   </a>
 </div>
+
+<img src="https://addons.mozilla.org/user-media/previews/thumbs/333/333717.jpg?modified=1756722002"/>
